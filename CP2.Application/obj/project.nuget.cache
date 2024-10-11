@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0pQ/SN9SoztqiDTHgAjL1WRDu8f2uHNo5l2+C2ZpJoDNzLny526ggg0QoLaRfnTOpG6lknWPntIINdrD+yGag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\cp2\\CP2.Application\\CP2.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
